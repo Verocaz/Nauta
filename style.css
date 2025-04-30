@@ -1,0 +1,21 @@
+body {
+  background-color: #ffc5c1;
+  color: #000000;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1rem;
+  font-weight: lighter;
+  margin: 0;              
+  padding: 2rem;
+  align-items: left;
+  justify-content: left;
+}
+
+.typed-container {
+  white-space: pre-line;
+  max-width: 800px;
+}
+
+.typed-cursor {
+  color: #000000;
+}
+
